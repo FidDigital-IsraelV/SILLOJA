@@ -9,7 +9,7 @@ const Resources = () => {
         <div className="max-w-7xl mx-auto">
           <div className="w-full h-[80vh] border rounded-lg overflow-hidden shadow">
             <iframe
-              src="http://143.198.234.95:5000/organization"
+              src="http://143.198.234.95/organization"
               className="w-full h-full border-none"
               title="Recursos del Sistema"
             ></iframe>
